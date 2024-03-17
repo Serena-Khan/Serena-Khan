@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Serena Khan
+- 👀 I’m interested in Python, AI, Data Science, and Machine Learning.
+- 🌱 I’m currently learning Data Science at codanics.
+- 💞️ I’m looking to collaborate on Data Science projects.
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/serena-khan-44b174294/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm doing my bachelor's in Computer Science.
